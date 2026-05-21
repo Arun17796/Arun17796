@@ -1,31 +1,39 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arun%20|%20Metagenomic%20Scientist&fontSize=38&fontColor=d4c5a9&fontAlignY=38&desc=Decoding%20microbial%20dark%20matter%2C%20one%20read%20at%20a%20time&descAlignY=58&descSize=16&descColor=a8956e" />
+<!-- ANIMATED NATURE SVG - FLOATING PARTICLES -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Microbiome%20Science&fontSize=42&fontColor=d4c5a9&fontAlignY=40&desc=Decoding%20microbial%20dark%20matter&descAlignY=60&descSize=18&descColor=a8956e&animation=fadeIn" />
+
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arun17796/Arun17796/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arun17796/Arun17796/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arun17796/Arun17796/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7A9E6E&background=00000000&center=true&vCenter=true&width=700&lines=Microbial+Ecologist+%7C+Bioinformatician;Host-Microbiome+Interactions+%26+Clinical+Metagenomics;Snakemake+%7C+Nextflow+%7C+HPC+Pipeline+Architect;16S+%7C+WGS+%7C+Functional+Annotation+%7C+MAGs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7A9E6E&background=00000000&center=true&vCenter=true&width=750&lines=🌿+Microbial+Ecologist+%7C+Bioinformatician;🧬+Host-Microbiome+Interactions+%26+Clinical+Metagenomics;⚙️+Snakemake+%7C+Nextflow+%7C+HPC+Pipeline+Architect;🔬+16S+%7C+WGS+%7C+Functional+Annotation+%7C+MAGs;🌱+Every+microbe+has+a+story+—+I+sequence+it)](https://git.io/typing-svg)
+
+<!-- NATURE ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
 
 </div>
-
----
 
 ## 🌱 About Me
 
 ```yaml
-name: Arun
-location: Tamil Nadu, India
-role: Metagenomic Scientist
-focus:
+Name    : Arunmozhi Bharathi Achudhan
+Location: Tamil Nadu, India
+Focus:
   - Microbial ecology & alpha/beta diversity analytics
   - Functional annotation & metabolic pathway reconstruction
   - Host-microbiome interactions (clinical metagenomics)
   - Scalable bioinformatics pipeline development
-currently_working_on: MAG binning workflows & strain-level resolution
-philosophy: "The microbiome is not noise — it is signal we haven't decoded yet."
+Philosophy: "The microbiome is not noise — it is signal we haven't decoded yet."
 ```
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+</div>
 
 ## 🧫 Research Focus
 
@@ -39,7 +47,9 @@ philosophy: "The microbiome is not noise — it is signal we haven't decoded yet
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+</div>
 
 ## 🛠️ Tools & Stack
 
@@ -78,46 +88,35 @@ philosophy: "The microbiome is not noise — it is signal we haven't decoded yet
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Arun17796&show_icons=true&theme=merko&bg_color=1a1f0f&title_color=a8b87a&text_color=c8b89a&icon_color=7a9e6e&border_color=3a4a2a&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun17796&layout=compact&theme=merko&bg_color=1a1f0f&title_color=a8b87a&text_color=c8b89a&border_color=3a4a2a&langs_count=6" />
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
 </div>
-
-
-
-</div>
-
----
 
 ## 🧬 Metagenomic Workflow Expertise
 
 ```
-Raw Reads (Illumina/Nanopore)
+🌿 Raw Reads (Illumina/Nanopore)
     │
-    ├─► QC: fastp / Trimmomatic / NanoFilt
+    ├─► 🧹 QC: fastp / Trimmomatic / NanoFilt
     │
-    ├─► Host decontamination: Bowtie2 / Minimap2
+    ├─► 🧫 Host decontamination: Bowtie2 / Minimap2
     │
-    ├─► Taxonomic profiling: Kraken2+Bracken / MetaPhlAn4
+    ├─► 🔭 Taxonomic profiling: Kraken2+Bracken / MetaPhlAn4
     │
-    ├─► Functional profiling: HUMAnN3 → KEGG / MetaCyc / eggNOG
+    ├─► ⚗️  Functional profiling: HUMAnN3 → KEGG / MetaCyc / eggNOG
     │
-    ├─► Assembly: MEGAHIT / metaSPAdes / Flye (long-read)
+    ├─► 🏗️  Assembly: MEGAHIT / metaSPAdes / Flye (long-read)
     │
-    ├─► Binning: MetaBAT2 / SemiBin2 + DAS_Tool
+    ├─► 🗂️  Binning: MetaBAT2 / SemiBin2 + DAS_Tool
     │
-    ├─► MAG QC: CheckM2 → GTDB-Tk → DRAM annotation
+    ├─► ✅ MAG QC: CheckM2 → GTDB-Tk → DRAM annotation
     │
-    └─► Diversity & stats: phyloseq / vegan / MaAsLin2 / ANCOM-BC
+    └─► 📊 Diversity & stats: phyloseq / vegan / MaAsLin2 / ANCOM-BC
 ```
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
+</div>
 
 ## 🌍 Connect
 
@@ -129,11 +128,9 @@ Raw Reads (Illumina/Nanopore)
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontColor=d4c5a9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontColor=d4c5a9&animation=fadeIn" />
 
 *"In a gram of soil lives a universe — I'm just trying to read it."*
 
