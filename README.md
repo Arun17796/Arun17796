@@ -10,7 +10,7 @@
 </picture>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7A9E6E&background=00000000&center=true&vCenter=true&width=750&lines=🌿+Microbial+Ecologist+%7C+Bioinformatician;🧬+Host-Microbiome+Interactions+%26+Clinical+Metagenomics;⚙️+Snakemake+%7C+Nextflow+%7C+HPC+Pipeline+Architect;🔬+16S+%7C+WGS+%7C+Functional+Annotation+%7C+MAGs;🌱+Every+microbe+has+a+story+—+I+sequence+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7A9E6E&background=00000000&center=true&vCenter=true&width=750&lines=🌿+Microbial+Ecologist+%7C+Bioinformatician;🧬+Host-Microbiome+Interactions+%26+Clinical+Metagenomics;⚙️+Snakemake+%7C+Nextflow+%7C+HPC+Pipeline+Architect;🔬+16S+%7C+WGS+%7C+Functional+Annotation+%7C+MAGs;🌱+Every+microbe+has+a+story)](https://git.io/typing-svg)
 
 <!-- NATURE ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%"/>
