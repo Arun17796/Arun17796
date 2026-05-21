@@ -89,9 +89,7 @@ philosophy: "The microbiome is not noise — it is signal we haven't decoded yet
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arun17796&theme=dark&background=1a1f0f&border=3a4a2a&ring=7a9e6e&fire=c8a04a&currStreakLabel=a8b87a&sideLabels=a8b87a&currStreakNum=d4c5a9&sideNums=d4c5a9&dates=7a8a6a)](https://git.io/streak-stats)
 
 </div>
 
